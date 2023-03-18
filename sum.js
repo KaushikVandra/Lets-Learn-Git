@@ -3,4 +3,4 @@ function add (a, b){
 }
 
 const sum = add(4, 5);
-console.log(sum);
+console.log("The sum is " + sum);
